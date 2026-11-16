@@ -1,0 +1,16 @@
+{
+  "cpu": "Apple M2",
+  "cores": 8,
+  "ram_gb": 8.0,
+  "gpu": "Apple M2 integrated (Metal); not used, CPU only",
+  "cuda": null,
+  "os": "macOS-14.5-arm64-arm-64bit",
+  "python": "3.12.6",
+  "torch": "2.15.0",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "sklearn": "1.9.1",
+  "scipy": "1.18.1",
+  "matplotlib": "3.11.2",
+  "pyyaml": "6.0.3"
+}
